@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Internet;Office;
+Comment=Standalone silo app for Trello
+Exec=silo -a asana
+GenericName=Asana
+Icon=silo-asana
+MimeType=
+Name=Asana
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-asana
