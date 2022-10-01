@@ -1,0 +1,13 @@
+{
+        "name": "Asana",
+        "scope": ["https?:\\/\\/(?:[^.]*\\.|)asana\\.com(?:\\/.*|)"],
+        "home": "https://asana.com",
+        "plugins": [
+            {
+                "name": "GoogleAuthentication"
+            }
+        ],
+        "icon": "icons/asana.svg",
+        "saveSession": false,
+        "menu": []
+}
